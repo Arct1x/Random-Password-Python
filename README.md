@@ -1,0 +1,1 @@
+Just a random python password generator, a small project of mine inspired by GeeksForGeeks.org but with an additonal piece of code that can allow it to save passwords in a .txt file to the same directory
